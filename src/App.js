@@ -1,5 +1,8 @@
 import Directory from './components/directory/directory.component';
 
+
+teste
+
 const App = () => {
 
   const categories = [
@@ -31,6 +34,7 @@ const App = () => {
   ]
 
   return (
+
     <Directory categories={categories} />
   );
   }
