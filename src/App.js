@@ -1,8 +1,5 @@
 import Directory from './components/directory/directory.component';
 
-
-teste
-
 const App = () => {
 
   const categories = [
